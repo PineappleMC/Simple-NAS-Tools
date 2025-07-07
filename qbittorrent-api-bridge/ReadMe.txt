@@ -10,3 +10,5 @@
 修改用户名：--change-qbittorrent-user
 修改密码：--change-qbittorrent-pass
 启用/禁用日志：--change-qbittorrent-log true/false
+
+Created 2025-7-7- 1403
