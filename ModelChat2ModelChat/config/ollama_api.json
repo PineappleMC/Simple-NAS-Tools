@@ -1,0 +1,8 @@
+{
+  "url": "http://192.168.9.120:11434",
+  "model": "huihui_ai/qwen3-abliterated:32b",
+  "timeout": 60,
+  "stream": false,
+  "max_rounds": 20,
+  "delay_between_requests": 2
+}
